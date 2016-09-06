@@ -5,6 +5,7 @@ int main() {
     string s1,s2;
     char p;
     do {
+    	cout<<"测试git库使用"<<endl;
        cout <<"输入两个字符串:"  <<endl;
        getline(cin , s1);
        getline(cin , s2);
